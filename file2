@@ -1,0 +1,20 @@
+1.define and explain 3 basic types of cloud service and the aws products that are buit based on them
+ans:
+    1.compute---ec2,elastic beansstalk,lambda,auto scaling,lightsall
+    2.store-----s3,glacler,ebs,efs
+    3.network----vpc,cloudfront,route53
+
+2.what is relation between avalibility zone and range
+
+ans:1.aws region is a separate geographic area
+    2.each aws region has mulitiple isolated locations known as avilibility zones
+
+3.what is auto scaling?
+
+ans:1.auto scaling in aws allows you to configure and automatically provision and lunch new instance whenever the demand increases
+2.auto scaling allows automatic increase or decrease of resource capacity as per the needs
+3.businesses need not worry cotinuously about managing the capacity of resources
+4 auto scaling is one of the most appealing reasons to choose aws
+
+4.Amazon S3 has how many pricing components?
+ans:4
